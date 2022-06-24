@@ -1,7 +1,7 @@
 # Discrete Choice Analysis: micro-econometrics and machine learning approaches
 
-**Course leaders:** Prof. Caspar Chorus and Dr. Sander van Cranenburgh
-**Teacher assistants:** Francisco Garrido-Valenzuela and Lucas Spierenburg
+- **Course leaders:** Prof. Caspar Chorus and Dr. Sander van Cranenburgh
+- **Teacher assistants:** Francisco Garrido-Valenzuela and Lucas Spierenburg
 
 ## General aim
 Discrete choice analysis (DCA) has become one of the most important frameworks for transportation modelling. Using DCA, the researcher or analyst is able to estimate the influence of all sorts of factors on travel choice behavior, and to predict mobility patterns and market shares for transport-related services; all this, in a quantitative, statistically rigorous way with deep roots in economics and the behavioral sciences. As such, DCA is indispensable for the underpinning of many transport policies and plans.

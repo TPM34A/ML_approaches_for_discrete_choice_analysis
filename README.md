@@ -78,7 +78,7 @@ To properly run the Python notebooks contained in this repo, it is recommended t
 - **Step 2:** Depends on if you would like to install the dependecies separate:
   - **Step 2.a:** If you want to create a virtual environment (venv):
     - Creates new a virtual environment (venv) and install the `requirements.txt` file in it.
-    - Open the notebook with your software of preference and run the notebook in the venv created.
-  - **Step 2.b:** If not, open the Python notebook you would like to open, uncomment the two lines related to local set-up in your notebook and run 
+    - Open the notebook notebook you would like to open (from **Step 1**) with your software of preference and run the notebook in the venv created.
+  - **Step 2.b:** If not, open the Python notebook you would like to open (from **Step 1**), uncomment the two lines related to local set-up in your notebook and run. After that, we suggest to re-comment the lines to avoind re-installing the dependencies every time (they will be on your Python).
 
 

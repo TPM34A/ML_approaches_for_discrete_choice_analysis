@@ -84,7 +84,7 @@ To properly run the Python notebooks contained in this repo, it is recommended t
     - Open the notebook notebook you would like to open (from **Step 1**) with your software of preference and run the notebook in the venv created.
   - **Step 2.b:** If not, open the Python notebook you would like to open (from **Step 1**), uncomment the line related to local set-up in your notebook and run. After that, we suggest to re-comment the lines to avoind re-installing the dependencies every time (they will be on your Python).
   <p align="center">
-  <img width="400" src="https://github.com/FGarridoV/resources/blob/main/local.png?raw=true">
+  <img width="600" src="https://github.com/FGarridoV/resources/blob/main/local.png?raw=true">
 </p>
 
 

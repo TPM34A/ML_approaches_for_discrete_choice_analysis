@@ -54,7 +54,11 @@ To properly run the Python notebooks contained in this repo, it is recommended t
 <p align="center">
   <img width="400" src="https://github.com/FGarridoV/resources/blob/main/Opening%20ipynb.png?raw=true">
 </p>
+
 - **Step 5:** Uncomment the two lines related to Colab set-up in your notebook. Then, run this cell and wait until finish.
+
+[ADD IMAGE EXAMPLE HERE]
+
 - **Step 6:** We are ready! Now, you can run the rest of the file.
 
 **Notes:**

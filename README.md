@@ -50,13 +50,12 @@ To properly run the Python notebooks contained in this repo, it is recommended t
 
 - **Step 2:** Go to [http://colab.research.google.com](http://colab.research.google.com)
 - **Step 3:** Sign in with your google account (if you are already signed in, skip this step)
-- **Step 4:** Upload the jupyter notebook you would like to work on. Click on "Upload" tab and then on "Choose file" (See numbers 1 and 2 on the following figure). Then navigate on your folders (from download of **Step 1**) to the Jupyter Notebook (.ipynb) you would like to open (e.g. Lecture_1.ipynb).
+- **Step 4:** Upload the Python notebook you would like to work on. Click on "Upload" tab and then on "Choose file" (See numbers 1 and 2 on the following figure). Then navigate on your folders (from download of **Step 1**) to the Python Notebook (.ipynb) you would like to open (e.g. Lecture_1.ipynb).
 <p align="center">
   <img width="400" src="https://github.com/FGarridoV/resources/blob/main/Opening%20ipynb.png?raw=true">
 </p>
 
 - **Step 5:** Uncomment the two lines related to Colab set-up in your notebook. Then, run this cell and wait until finish.
-
 [ADD IMAGE EXAMPLE HERE]
 
 - **Step 6:** We are ready! Now, you can run the rest of the file.
@@ -71,4 +70,13 @@ To properly run the Python notebooks contained in this repo, it is recommended t
 
 **Minimal requirements:**
 - A Python version installed (3.8 or newer)
-- Basic skills in virtual enviroments* (*Only if you don't what to mix your current dependencies)
+- An IPython (notebook) enviroment installed in your computer (Jupyter, VSCode or alternatives)
+- Basic skills in virtual enviroments (Only if you don't what to mix your current dependencies)
+
+### Steps
+- **Step 1:** Clone or download this repo to your computer (see **Step 1** on Colab section).
+- **Step 2:** Depends on if you would like to install the dependecies separate:
+  - **Step **If you want to create a virtual environment (venv), creates a venv and install the `requirements.txt` file in it.
+  - If not, open the Python notebook you would like to open, uncomment the two lines related to local set-up in your notebook and run 
+
+

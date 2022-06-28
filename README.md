@@ -76,7 +76,9 @@ To properly run the Python notebooks contained in this repo, it is recommended t
 ### Steps
 - **Step 1:** Clone or download this repo to your computer (see **Step 1** on Colab section).
 - **Step 2:** Depends on if you would like to install the dependecies separate:
-  - **Step **If you want to create a virtual environment (venv), creates a venv and install the `requirements.txt` file in it.
-  - If not, open the Python notebook you would like to open, uncomment the two lines related to local set-up in your notebook and run 
+  - **Step 2.a:** If you want to create a virtual environment (venv):
+    - Creates new a virtual environment (venv) and install the `requirements.txt` file in it.
+    - Open the notebook with your software of preference and run the notebook in the venv created.
+  - **Step 2.b:** If not, open the Python notebook you would like to open, uncomment the two lines related to local set-up in your notebook and run 
 
 

@@ -35,7 +35,7 @@ This course will contain a mix of theory, implementation guidelines, and hands-o
 
 To properly run the Python notebooks contained in this repo, it is recommended to use Google Colab. But, if you wish to use your local environment (your computer), you can also do so by following certain recommendations.
 
-## Option 1: Google colab
+## Option 1: Google Colab
 
 **Minimal requirements:**
 - A Google account
@@ -45,16 +45,22 @@ To properly run the Python notebooks contained in this repo, it is recommended t
 ### Steps
 - **Step 1:** Download this repo to your computer. On the top of this site, click on the green button "Code" and then "Download ZIP" (See numbers 1 and 2 on the following image).
 <p align="center">
-  <img width="600" src="https://github.com/FGarridoV/resources/blob/main/Downloading%20repo.png">
+  <img width="400" src="https://github.com/FGarridoV/resources/blob/main/Downloading%20repo.png">
 </p>
 
 - **Step 2:** Go to [http://colab.research.google.com](http://colab.research.google.com)
 - **Step 3:** Sign in with your google account (if you are already signed in, skip this step)
+- **Step 4:** Upload the jupyter notebook you would like to work on. Click on "Upload" tab and then on "Choose file" (See numbers 1 and 2 on the following figure). Then navigate on your folders (from download of **Step 1**) to the Jupyter Notebook (.ipynb) you would like to open (e.g. Lecture_1.ipynb).
+<p align="center">
+  <img width="400" src="https://github.com/FGarridoV/resources/blob/main/Opening%20ipynb.png?raw=true">
+</p>
+- **Step 5:** Uncomment the two lines related to Colab set-up in your notebook. Then, run this cell and wait until finish.
+- **Step 6:** We are ready! Now, you can run the rest of the file.
 
-
-Click on file > upload notebook
-Navigate to the Jupyter Notebook (.ipynb) you would like to open (e.g. Lecture_1.ipynb)
-Uncomment the two lines related to Colab set-up in your notebook
+**Notes:**
+- You can run cell by cell by clicking the play button next to it. Alternative, press ctrl+F9 to run all cells at once.
+- The uploaded notebook file will be stored in Google Drive's account (results of **Step 4**)
+- If you close the session, look the uploaded file, and you must do Step 5 again.
 
 
 ## Option 2: Local environment

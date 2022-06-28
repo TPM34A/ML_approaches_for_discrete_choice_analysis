@@ -1,6 +1,7 @@
 # Discrete Choice Analysis: micro-econometrics and machine learning approaches
+## *Machine learning approaches for discrete choice analysis*
 
-- **Course leaders:** Prof. Caspar Chorus and Dr. Sander van Cranenburgh
+- **Teacher:** Dr. Sander van Cranenburgh
 - **Teacher assistants:** Francisco Garrido-Valenzuela and Lucas Spierenburg
 
 ## General aim
@@ -12,18 +13,18 @@ This course will contain a mix of theory, implementation guidelines, and hands-o
 
 **This repo cover the materials for the days 3 and 4**
 
-### Day 3 (July 7th) – Introduction to Machine learning for choice behaviour analysis (Van Cranenburgh)
+### Day 3 (July 7th) – Machine learning approaches for discrete choice analysis (Part 1) (Van Cranenburgh)
 Time: 10.00 – 16.00 h
 Room: D2 (ground floor), TPM, Jaffalaan 5
-- Introduction into Machine learning for choice behaviour analysis
-- Data and training
-- Artificial Neural networks, SVM, Random Forests
-- Exercise 4 (Jupyter notebook)
+- Introduction to machine learning for choice modellers
+- Artificial neural networks & Training
+- Lab session 1 (jupyter notebook)
 
 
-### Day 4 (July 8th) – Advances in Machine learning for choice behaviour analysis (Van Cranenburgh)
+### Day 4 (July 8th) – Machine learning approaches for discrete choice analysis (Part 1) (Van Cranenburgh)
 Time: 10.00 – 16.00 h
 Room: D2 (ground floor), TPM, Jaffalaan 5
-- Hybrid models
 - Explainable AI techniques
-- Exercise 5 (Jupyter notebook)
+- Hybrid models and SHAP values
+- Data requirements for training ANNs
+- Exercise 2 (Jupyter notebook)

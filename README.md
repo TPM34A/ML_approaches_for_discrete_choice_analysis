@@ -14,16 +14,16 @@ This course will contain a mix of theory, implementation guidelines, and hands-o
 **This repo cover the materials for the days 3 and 4**
 
 ### Day 3 (July 7th) – Machine learning approaches for discrete choice analysis (Part 1) (Van Cranenburgh)
-Time: 10.00 – 16.00 h
-Room: D2 (ground floor), TPM, Jaffalaan 5
+**Time**: 10.00 – 16.00 h<br>
+**Room**: D2 (ground floor), TPM, Jaffalaan 5
 - Introduction to machine learning for choice modellers
 - Artificial neural networks & Training
 - Lab session 1 (jupyter notebook)
 
 
 ### Day 4 (July 8th) – Machine learning approaches for discrete choice analysis (Part 1) (Van Cranenburgh)
-Time: 10.00 – 16.00 h
-Room: D2 (ground floor), TPM, Jaffalaan 5
+**Time**: 10.00 – 16.00 h<br>
+**Room**: D2 (ground floor), TPM, Jaffalaan 5
 - Explainable AI techniques
 - Hybrid models and SHAP values
 - Data requirements for training ANNs

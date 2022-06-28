@@ -13,6 +13,8 @@ This course will contain a mix of theory, implementation guidelines, and hands-o
 
 **This repo cover the materials for the days 3 and 4**
 
+## Schedule
+
 ### Day 3 (July 7th) – Machine learning approaches for discrete choice analysis (Part 1) (Van Cranenburgh)
 **Time**: 10.00 – 16.00 h<br>
 **Room**: D2 (ground floor), TPM, Jaffalaan 5
@@ -28,3 +30,20 @@ This course will contain a mix of theory, implementation guidelines, and hands-o
 - Hybrid models and SHAP values
 - Data requirements for training ANNs
 - Exercise 2 (Jupyter notebook)
+
+## Instructions and set-up
+
+To properly run the Python notebooks contained in this repo, it is recommended to use Google Colab. But, if you wish to use your local environment (your computer), you can also do so by following certain recommendations.
+
+### Option 1: Google colab
+
+**Minimal requirements:**
+- A Google account
+- Web browser
+- Internet connection
+
+### Option 2: Local environment
+
+**Minimal requirements:**
+- A Python version installed (3.8 or newer)
+- Basic skills in virtual enviroments* (*Only if you don't what to mix your current dependencies)

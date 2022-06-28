@@ -45,7 +45,7 @@ To properly run the Python notebooks contained in this repo, it is recommended t
 ### Steps
 - **Step 1:** Download this repo to your computer. On the top of this site, click on the green button "Code" and then "Download ZIP" (See numbers 1 and 2 on the following image).
 <p align="center">
-  <img width="400" src="https://github.com/FGarridoV/resources/blob/main/Downloading%20repo.png">
+  <img width="500" src="https://github.com/FGarridoV/resources/blob/main/Downloading%20repo.png">
 </p>
 
 - **Step 2:** Go to [http://colab.research.google.com](http://colab.research.google.com)

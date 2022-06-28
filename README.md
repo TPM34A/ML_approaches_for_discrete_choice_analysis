@@ -55,8 +55,11 @@ To properly run the Python notebooks contained in this repo, it is recommended t
   <img width="400" src="https://github.com/FGarridoV/resources/blob/main/Opening%20ipynb.png?raw=true">
 </p>
 
-- **Step 5:** Uncomment the two lines related to Colab set-up in your notebook. Then, run this cell and wait until finish.
-[ADD IMAGE EXAMPLE HERE]
+- **Step 5:** Uncomment the three lines related to Colab set-up in your notebook. Then, run this cell and wait until finish.
+<p align="center">
+  <img width="400" src="https://github.com/FGarridoV/resources/blob/main/colab.png?raw=true">
+</p>
+
 
 - **Step 6:** We are ready! Now, you can run the rest of the file.
 
@@ -79,6 +82,9 @@ To properly run the Python notebooks contained in this repo, it is recommended t
   - **Step 2.a:** If you want to create a virtual environment (venv):
     - Creates new a virtual environment (venv) and install the `requirements.txt` file in it.
     - Open the notebook notebook you would like to open (from **Step 1**) with your software of preference and run the notebook in the venv created.
-  - **Step 2.b:** If not, open the Python notebook you would like to open (from **Step 1**), uncomment the two lines related to local set-up in your notebook and run. After that, we suggest to re-comment the lines to avoind re-installing the dependencies every time (they will be on your Python).
+  - **Step 2.b:** If not, open the Python notebook you would like to open (from **Step 1**), uncomment the line related to local set-up in your notebook and run. After that, we suggest to re-comment the lines to avoind re-installing the dependencies every time (they will be on your Python).
+  <p align="center">
+  <img width="400" src="https://github.com/FGarridoV/resources/blob/main/local.png?raw=true">
+</p>
 
 

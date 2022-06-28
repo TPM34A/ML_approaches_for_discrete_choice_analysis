@@ -31,28 +31,33 @@ This course will contain a mix of theory, implementation guidelines, and hands-o
 - Data requirements for training ANNs
 - Exercise 2 (Jupyter notebook)
 
-## Instructions and set-up
+# Instructions to set-up your workspace
 
 To properly run the Python notebooks contained in this repo, it is recommended to use Google Colab. But, if you wish to use your local environment (your computer), you can also do so by following certain recommendations.
 
-### Option 1: Google colab
+## Option 1: Google colab
 
 **Minimal requirements:**
 - A Google account
 - Web browser
 - Internet connection
 
-#### Steps
-- **Step 1:** Go to [http://colab.research.google.com](http://colab.research.google.com)
-- **Step 2:** Sign in with your google account (if you are already signed in, skip this step)
-- **Step 3: 
+### Steps
+- **Step 1:** Download this repo to your computer. On the top of this site, click on the green button "Code" and then "Download ZIP" (See numbers 1 and 2 on the following image).
+<p align="center">
+  <img width="600" src="https://github.com/FGarridoV/resources/blob/main/Downloading%20repo.png">
+</p>
+
+- **Step 2:** Go to [http://colab.research.google.com](http://colab.research.google.com)
+- **Step 3:** Sign in with your google account (if you are already signed in, skip this step)
+
 
 Click on file > upload notebook
 Navigate to the Jupyter Notebook (.ipynb) you would like to open (e.g. Lecture_1.ipynb)
 Uncomment the two lines related to Colab set-up in your notebook
 
 
-### Option 2: Local environment
+## Option 2: Local environment
 
 **Minimal requirements:**
 - A Python version installed (3.8 or newer)

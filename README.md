@@ -42,6 +42,16 @@ To properly run the Python notebooks contained in this repo, it is recommended t
 - Web browser
 - Internet connection
 
+#### Steps
+- **Step 1:** Go to [http://colab.research.google.com](http://colab.research.google.com)
+- **Step 2:** Sign in with your google account (if you are already signed in, skip this step)
+- **Step 3: 
+
+Click on file > upload notebook
+Navigate to the Jupyter Notebook (.ipynb) you would like to open (e.g. Lecture_1.ipynb)
+Uncomment the two lines related to Colab set-up in your notebook
+
+
 ### Option 2: Local environment
 
 **Minimal requirements:**

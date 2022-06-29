@@ -64,7 +64,7 @@ To properly run the Python notebooks in this repo, we recommend to use **Google 
 
 **Notes:**
 - The uploaded notebook file will be stored on your Google Drive in the folder My Drive \Colab Notebooks\
-- If you close the session and want to get started again, then: Go to Colab [Colab](http://colab.research.google.com), open the uploaded notebook from your Google Drive, and re-do Step 5.
+- If you close the session and want to get started again, then: Go to [Colab](http://colab.research.google.com), open the uploaded notebook from your Google Drive, and re-do Step 5.
 
 
 ## Option 2: Local environment (not recommended - limited support)

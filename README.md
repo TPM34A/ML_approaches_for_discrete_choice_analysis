@@ -35,7 +35,7 @@ This course will contain a mix of theory, implementation guidelines, and hands-o
 
 To properly run the Python notebooks contained in this repo, it is recommended to use Google Colab. But, if you wish to use your local environment (your computer), you can also do so by following certain recommendations.
 
-## Option 1: Google Colab
+## Option 1: Google Colab (recommended)
 
 **Minimal requirements:**
 - A Google account

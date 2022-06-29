@@ -86,4 +86,5 @@ To properly run the Python notebooks contained in this repo, it is recommended t
   <img width="600" src="https://github.com/FGarridoV/resources/blob/main/local.png?raw=true">
 </p>
 
-
+**Notes:**
+- The three Python notebooks in this repo use the same requirements.txt of dependencies, so just run the cell of **Step 2.b** one time only (i.e. if you ran the cell in the first notebook, you don't need to do it again en the other notebooks).

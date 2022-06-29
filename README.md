@@ -79,7 +79,7 @@ To properly run the Python notebooks contained in this repo, it is recommended t
 - **Step 1:** Clone or download this repo to your computer (see **Step 1** on Colab section).
 - **Step 2:** Depends on if you would like to install the dependecies separate from your Python version or install in tht currently version installed (easy way):
   - **Step 2.a (you need some knowledge on venvs):** If you want to create a virtual environment (venv):
-    - Creates new a virtual environment (venv) and install the `requirements.txt` file in it. (see (venv)[https://realpython.com/lessons/creating-virtual-environment/] and (install requirements)[https://note.nkmk.me/en/python-pip-install-requirements/])
+    - Creates new a virtual environment (venv) and install the `requirements.txt` file in it. (see [venv](https://realpython.com/lessons/creating-virtual-environment/) and [install requirements](https://note.nkmk.me/en/python-pip-install-requirements/))
     - Open the notebook notebook you would like to open (from **Step 1**) with your software of preference and run the notebook in the venv created.
   - **Step 2.b (easy way):** If not, open the Python notebook you would like to open (from **Step 1**), uncomment the line related to local set-up in your notebook and run (see the following figure). After that, we suggest to re-comment the lines to avoind re-installing the dependencies every time (they will be on your Python).
   <p align="center">

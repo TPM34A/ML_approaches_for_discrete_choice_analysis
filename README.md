@@ -65,7 +65,7 @@ To properly run the Python notebooks contained in this repo, it is recommended t
 **Notes:**
 - You can run cell by cell by clicking the play button next to it. Alternative, press ctrl+F9 to run all cells at once.
 - The uploaded notebook file will be stored in Google Drive's account (results of **Step 4**)
-- If you close the session, look the uploaded file, and you must do Step 5 again.
+- If you close the session and want to get started again: go to Colab, open the uploaded notebook of the lab session, and re-do Step 5.
 
 
 ## Option 2: Local environment

@@ -1,7 +1,7 @@
 # Discrete Choice Analysis: micro-econometrics and machine learning approaches
 ## *Machine learning approaches for discrete choice analysis*
 
-- **Teacher:** Dr. Sander van Cranenburgh
+- **Lecturer:** Dr. Sander van Cranenburgh
 - **Teacher assistants:** Francisco Garrido-Valenzuela and Lucas Spierenburg
 
 ## General aim
@@ -33,7 +33,7 @@ This course will contain a mix of theory, implementation guidelines, and hands-o
 
 # Instructions to set-up your workspace
 
-To properly run the Python notebooks contained in this repo, it is recommended to use Google Colab. But, if you wish to use your local environment (your computer), you can also do so by following certain recommendations.
+To properly run the Python notebooks in this repo, we recommend to use **Google Colab**. However, if you wish to run the notebooks on your local environment (i.e. your own laptop), then following the instructions provided under **option 2**.
 
 ## Option 1: Google Colab (recommended)
 
@@ -43,48 +43,47 @@ To properly run the Python notebooks contained in this repo, it is recommended t
 - Internet connection
 
 ### Steps
-- **Step 1:** Download this repo to your computer. On the top of this site, click on the green button "Code" and then "Download ZIP" (See numbers 1 and 2 on the following image).
+- **Step 1:** Download this repo to your computer. On the top of this site, click on the green button "Code" and then "Download ZIP" (See numbers 1 and 2 on the following image). Unzip this file in a working folder of your own choice.
 <p align="center">
   <img width="500" src="https://github.com/FGarridoV/resources/blob/main/Downloading%20repo.png">
 </p>
 
 - **Step 2:** Go to [http://colab.research.google.com](http://colab.research.google.com)
-- **Step 3:** Sign in with your google account (if you are already signed in, skip this step)
-- **Step 4:** Upload the Python notebook you would like to work on. Click on "Upload" tab and then on "Choose file" (See numbers 1 and 2 on the following figure). Then navigate on your folders (downloaded in **Step 1**) to the Python Notebook (.ipynb) you would like to open (e.g. Lab1 - artificial neural networks.ipynb).
+- **Step 3:** Sign in with your Google account (if you are already signed in, skip this step). If you do not have a Google account, you must (temporarily) create one.
+- **Step 4:** Upload the Python notebook you you want to work on to Colab. Click on the "Upload" tab and then on the "Choose file" tab, see numbers 1 and 2 on the figure below. Then, navigate to your working folder (**Step 1**) and select the Python notebook (.ipynb) you want to work on(e.g. Lab session 1.ipynb).
 <p align="center">
   <img width="400" src="https://github.com/FGarridoV/resources/blob/main/Opening%20ipynb.png?raw=true">
 </p>
 
-- **Step 5:** Uncomment the three lines related to Colab set-up in your notebook (see the following figure). Then, run this cell and wait until finish.
+- **Step 5:** **Importantly**, uncomment the three lines related to Colab set-up in your notebook, see the figure below. Run this cell and wait until finish.
 <p align="center">
   <img width="400" src="https://github.com/FGarridoV/resources/blob/main/colab.png?raw=true">
 </p>
 
-- **Step 6:** We are ready! Now, you can run the rest of the file.
+- **Step 6:** You are all set! You can work on your notebook.
 
 **Notes:**
-- You can run cell by cell by clicking the play button next to it. Alternative, press ctrl+F9 to run all cells at once.
-- The uploaded notebook file will be stored in Google Drive's account (results of **Step 4**)
-- If you close the session and want to get started again: go to Colab, open the uploaded notebook of the lab session, and re-do Step 5.
+- The uploaded notebook file will be stored on your Google Drive in the folder My Drive \Colab Notebooks\
+- If you close the session and want to get started again, then: Go to Colab [Colab](http://colab.research.google.com), open the uploaded notebook from your Google Drive, and re-do Step 5.
 
 
-## Option 2: Local environment
+## Option 2: Local environment (not recommended - limited support)
 
 **Minimal requirements:**
 - A Python version installed (3.8 or newer)
-- An IPython (notebook) enviroment installed in your computer (Jupyter, VSCode or alternatives)
-- Basic skills in virtual enviroments (Only if you don't what to mix your current dependencies)
+- An IPython (notebook) enviroment installed on your computer (Jupyter, VSCode or alternatives)
+- Basic skills in virtual enviroments (if you don't what to mix your current dependencies)
 
 ### Steps
 - **Step 1:** Clone or download this repo to your computer (see **Step 1** on Colab section).
-- **Step 2:** Depends on if you would like to install the dependecies separate from your Python version or install in tht currently version installed (easy way):
-  - **Step 2.a (you need some knowledge on venvs):** If you want to create a virtual environment (venv):
-    - Creates new a virtual environment (venv) and install the `requirements.txt` file in it. (see [venv](https://realpython.com/lessons/creating-virtual-environment/) and [install requirements](https://note.nkmk.me/en/python-pip-install-requirements/))
-    - Open the notebook you would like to open (from **Step 1**) with your software of preference and run the notebook in the venv created.
-  - **Step 2.b (easy way):** If not, open the Python notebook you would like to open (from **Step 1**), uncomment the line related to local set-up in your notebook and run (see the following figure). After that, we suggest to re-comment the lines to avoind re-installing the dependencies every time (they will be on your Python).
+- **Step 2:** Two options: (a) Install dependecies separate from your current Python version; (b) Re-install Python with dependencies for this notebook (easy way):
+  - **Step 2.a (you need some knowledge on venvs):**
+    - Create a new virtual environment (venv) and install the `requirements.txt` file. (see [venv](https://realpython.com/lessons/creating-virtual-environment/) and [install requirements](https://note.nkmk.me/en/python-pip-install-requirements/))
+    - Open the notebook you want to work on (**Step 1**) and run the notebook in the newly created venv.
+  - **Step 2.b (easy way):** 
+    - Open the Python notebook you want to work on (**Step 1**)
+    - Uncomment the line related to using a local set-up and run it (see the figure below).
+    - Re-comment the lines to avoid re-installing the dependencies every time you run the notebook.
   <p align="center">
   <img width="600" src="https://github.com/FGarridoV/resources/blob/main/local.png?raw=true">
 </p>
-
-**Notes:**
-- The three Python notebooks in this repo use the same requirements.txt of dependencies, so just run the cell of **Step 2.b** one time only (i.e. if you ran the cell in the first notebook, you don't need to do it again en the other notebooks).

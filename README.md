@@ -48,7 +48,7 @@ To properly run the Python notebooks contained in this repo, it is recommended t
   <img width="500" src="https://github.com/FGarridoV/resources/blob/main/Downloading%20repo.png">
 </p>
 
-- **Step 2:** Go to [http://colab.research.google.com](http://colab.research.google.com)
+- **Step 2:** Go to [http://colab.research.google.com](http://colab.research.google.com){:target="_blank" rel="noopener"}
 - **Step 3:** Sign in with your google account (if you are already signed in, skip this step)
 - **Step 4:** Upload the Python notebook you would like to work on. Click on "Upload" tab and then on "Choose file" (See numbers 1 and 2 on the following figure). Then navigate on your folders (downloaded in **Step 1**) to the Python Notebook (.ipynb) you would like to open (e.g. Lab1 - artificial neural networks.ipynb).
 <p align="center">

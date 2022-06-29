@@ -20,7 +20,7 @@ This course will contain a mix of theory, implementation guidelines, and hands-o
 **Room**: D2 (ground floor), TPM, Jaffalaan 5
 - Introduction to machine learning for choice modellers
 - Artificial neural networks & Training
-- Lab session 1 (jupyter notebook)
+- Lab session 1 (Python notebook)
 
 
 ### Day 4 (July 8th) – Machine learning approaches for discrete choice analysis (Part 1) (Van Cranenburgh)
@@ -29,7 +29,7 @@ This course will contain a mix of theory, implementation guidelines, and hands-o
 - Explainable AI techniques
 - Hybrid models and SHAP values
 - Data requirements for training ANNs
-- Exercise 2 (Jupyter notebook)
+- Lab session 2 (Python notebook)
 
 # Instructions to set-up your workspace
 
@@ -50,16 +50,15 @@ To properly run the Python notebooks contained in this repo, it is recommended t
 
 - **Step 2:** Go to [http://colab.research.google.com](http://colab.research.google.com)
 - **Step 3:** Sign in with your google account (if you are already signed in, skip this step)
-- **Step 4:** Upload the Python notebook you would like to work on. Click on "Upload" tab and then on "Choose file" (See numbers 1 and 2 on the following figure). Then navigate on your folders (from download of **Step 1**) to the Python Notebook (.ipynb) you would like to open (e.g. Lecture_1.ipynb).
+- **Step 4:** Upload the Python notebook you would like to work on. Click on "Upload" tab and then on "Choose file" (See numbers 1 and 2 on the following figure). Then navigate on your folders (downloaded in **Step 1**) to the Python Notebook (.ipynb) you would like to open (e.g. Lab1 - artificial neural networks.ipynb).
 <p align="center">
   <img width="400" src="https://github.com/FGarridoV/resources/blob/main/Opening%20ipynb.png?raw=true">
 </p>
 
-- **Step 5:** Uncomment the three lines related to Colab set-up in your notebook. Then, run this cell and wait until finish.
+- **Step 5:** Uncomment the three lines related to Colab set-up in your notebook (see the following figure). Then, run this cell and wait until finish.
 <p align="center">
   <img width="400" src="https://github.com/FGarridoV/resources/blob/main/colab.png?raw=true">
 </p>
-
 
 - **Step 6:** We are ready! Now, you can run the rest of the file.
 
@@ -78,11 +77,11 @@ To properly run the Python notebooks contained in this repo, it is recommended t
 
 ### Steps
 - **Step 1:** Clone or download this repo to your computer (see **Step 1** on Colab section).
-- **Step 2:** Depends on if you would like to install the dependecies separate:
-  - **Step 2.a:** If you want to create a virtual environment (venv):
-    - Creates new a virtual environment (venv) and install the `requirements.txt` file in it.
+- **Step 2:** Depends on if you would like to install the dependecies separate from your Python version or install in tht currently version installed (easy way):
+  - **Step 2.a (you need some knowledge on venvs):** If you want to create a virtual environment (venv):
+    - Creates new a virtual environment (venv) and install the `requirements.txt` file in it. (see (venv)[https://realpython.com/lessons/creating-virtual-environment/] and (install requirements)[https://note.nkmk.me/en/python-pip-install-requirements/])
     - Open the notebook notebook you would like to open (from **Step 1**) with your software of preference and run the notebook in the venv created.
-  - **Step 2.b:** If not, open the Python notebook you would like to open (from **Step 1**), uncomment the line related to local set-up in your notebook and run. After that, we suggest to re-comment the lines to avoind re-installing the dependencies every time (they will be on your Python).
+  - **Step 2.b (easy way):** If not, open the Python notebook you would like to open (from **Step 1**), uncomment the line related to local set-up in your notebook and run (see the following figure). After that, we suggest to re-comment the lines to avoind re-installing the dependencies every time (they will be on your Python).
   <p align="center">
   <img width="600" src="https://github.com/FGarridoV/resources/blob/main/local.png?raw=true">
 </p>

@@ -1,5 +1,6 @@
 #DSStore
 **/.DS_Store
+Lab sessions/my_tuned_model.sav
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

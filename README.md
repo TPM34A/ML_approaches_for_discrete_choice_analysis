@@ -39,7 +39,7 @@ To properly run the Python notebooks in this repo, we recommend to use **Google 
 
 **Minimal requirements:**
 - A Google account
-- Web browser
+- Google Chrome web browser
 - Internet connection
 
 ### Steps
@@ -55,30 +55,32 @@ To properly run the Python notebooks in this repo, we recommend to use **Google 
   <img width="400" src="https://github.com/FGarridoV/resources/blob/main/Opening%20ipynb.png?raw=true">
 </p>
 
-- **Step 5:** **Importantly**, uncomment the three lines related to Colab set-up in your notebook, see the figure below. Run this cell and wait until finish.
+- **Step 5:** Once open, click on "View" >> "Expand sections" on menu bar.
+
+- **Step 6:** **Importantly**, uncomment the three lines related to Colab set-up in your notebook, see the figure below. Run this cell and wait until finish.
 <p align="center">
   <img width="400" src="https://github.com/FGarridoV/resources/blob/main/colab.png?raw=true">
 </p>
 
-- **Step 6:** You are all set! You can work on your notebook.
+- **Step 7:** You are all set! You can work on your notebook.
 
 **Notes:**
 - The uploaded notebook file will be stored on your Google Drive in the folder My Drive \Colab Notebooks\
-- If you close the session and want to get started again, then: Go to [Colab](http://colab.research.google.com), open the uploaded notebook from your Google Drive, and re-do Step 5.
+- If you close the session and want to get started again, then: Go to [Colab](http://colab.research.google.com), open the uploaded notebook from your Google Drive, and re-do Step 5 and 6.
 
 
 ## Option 2: Local environment (not recommended - limited support)
 
 **Minimal requirements:**
-- A Python version installed (3.8 or newer)
+- A Python version installed (3.7 or newer)
 - An IPython (notebook) enviroment installed on your computer (Jupyter, VSCode or alternatives)
 - Basic skills in virtual enviroments (if you don't what to mix your current dependencies)
 
 ### Steps
 - **Step 1:** Clone or download this repo to your computer (see **Step 1** on Colab section).
-- **Step 2:** Two options: (a) Install dependecies separate from your current Python version; (b) Re-install Python with dependencies for this notebook (easy way):
+- **Step 2:** Two options: (a) Install dependecies separate from your current Python version; (b) Install dependencies for this notebook in your Python version  (easy way):
   - **Step 2.a (you need some knowledge on venvs):**
-    - Create a new virtual environment (venv) and install the `requirements.txt` file. (see [venv](https://realpython.com/lessons/creating-virtual-environment/) and [install requirements](https://note.nkmk.me/en/python-pip-install-requirements/))
+    - Create a new virtual environment (venv) and install the `requirements_local.txt` file. (see [venv](https://realpython.com/lessons/creating-virtual-environment/) and [install requirements](https://note.nkmk.me/en/python-pip-install-requirements/))
     - Open the notebook you want to work on (**Step 1**) and run the notebook in the newly created venv.
   - **Step 2.b (easy way):** 
     - Open the Python notebook you want to work on (**Step 1**)

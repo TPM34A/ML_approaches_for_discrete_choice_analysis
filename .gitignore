@@ -129,3 +129,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Lab sessions/__RUM-MNL model with TRAIN and SM.iter
+Lab sessions/__RUM-MNL.iter
+Lab sessions/my_tuned_model.sav
+Lab sessions/my_tuned_model.sav

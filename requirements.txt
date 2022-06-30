@@ -1,6 +1,6 @@
 xgboost==1.6.1
 shap==0.41.0
-tensorflow==2.8.2
+tensorflow==2.9.1
 biogeme==3.2.8
 seaborn==0.11.2
 sklearn==0.0

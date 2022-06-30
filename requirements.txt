@@ -3,6 +3,5 @@ shap==0.41.0
 tensorflow==2.8.2
 biogeme==3.2.8
 seaborn==0.11.2
-matplotlib==3.5.2
 sklearn==0.0
 pandas==1.3.5

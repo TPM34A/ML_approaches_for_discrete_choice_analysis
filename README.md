@@ -50,14 +50,14 @@ To properly run the Python notebooks in this repo, we recommend to use **Google 
 
 - **Step 2:** Go to [http://colab.research.google.com](http://colab.research.google.com)
 - **Step 3:** Sign in with your Google account (if you are already signed in, skip this step). If you do not have a Google account, you must (temporarily) create one.
-- **Step 4:** Upload the Python notebook you you want to work on to Colab. Click on the "Upload" tab and then on the "Choose file" tab, see numbers 1 and 2 on the figure below. Then, navigate to your working folder (**Step 1**) and select the Python notebook (.ipynb) you want to work on(e.g. Lab session 1.ipynb).
+- **Step 4:** Upload the Python notebook you want to work on to Colab. Click on the "Upload" tab and then on the "Choose file" tab, see numbers 1 and 2 on the figure below. Then, navigate to your working folder (**Step 1**) and select the Python notebook (.ipynb) you want to work on(e.g. Lab session 1.ipynb).
 <p align="center">
   <img width="400" src="https://github.com/FGarridoV/resources/blob/main/Opening%20ipynb.png?raw=true">
 </p>
 
 - **Step 5:** Once open, click on "View" >> "Expand sections" on menu bar.
 
-- **Step 6:** **Importantly**, uncomment the three lines related to Colab set-up in your notebook, see the figure below. Run this cell and wait until finish.
+- **Step 6:** **Importantly**, uncomment (i.e. remove the '#') the lines related to Colab set-up in your notebook, see the figure below. Run this cell and wait until finish.
 <p align="center">
   <img width="400" src="https://github.com/FGarridoV/resources/blob/main/colab.png?raw=true">
 </p>
